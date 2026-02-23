@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Hitaishi Pandey  
 
-<!--
-**hitaishipp/hitaishipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT | 2nd Year Student at Banasthali Vidyapith  
+💻 Aspiring Software Developer  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🌱 Currently learning Data Structures & Algorithms and Full Stack Development
+- 📚 Practicing DSA regularly
+- 💡 Interested in problem-solving and building real-world projects
+- 🤝 Open to collaborating on beginner-friendly open source projects
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 C++
+- ☕ Java
+- 🌐 HTML, CSS, JS, Node.js
+
+---
+
+## 📌 Current Focus
+
+- Improving problem-solving skills  
+- Preparing for internships  
+- Building strong fundamentals  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/hitaishi-pandey-a6a753355/
+
+⭐ Consistency beats motivation.
